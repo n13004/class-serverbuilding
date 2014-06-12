@@ -8,6 +8,8 @@
 ### Wordpress
 
 #### Wordpressチューニング
+*apache2,php5,mysql-sevices,php5-mysqlをインストール
+
 
 ### EC-CUBE
 
