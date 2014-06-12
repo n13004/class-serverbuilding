@@ -13,7 +13,9 @@
 
 #### Wordpressチューニング
 *apache2,php5,mysql-sevices,php5-mysqlをインストール
-
+*mysqlに新しいテーブルを作る
+＊apache2をスタートさせる
+＊wordpressをダウンロードする
 
 ### EC-CUBE
 
