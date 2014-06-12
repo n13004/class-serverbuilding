@@ -8,11 +8,9 @@
 ### Wordpress
 
 #### Wordpressチューニング
-* APCのインストール
-* HipHopVMのインストール
-* プラグインを足す
 
 ### EC-CUBE
+* eコマース
 
 ## DNSサーバー
 
